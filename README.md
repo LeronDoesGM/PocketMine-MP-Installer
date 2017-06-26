@@ -1,6 +1,7 @@
 # [![PocketMine-MP](http://cdn.pocketmine.net/img/PocketMine-MP-h.png)](https://pmmp.io)
 
 __NOTE: This is not the official source for PocketMine, this is for the installer only! Visit the official PocketMine source [here](https://github.com/pmmp/pocketmine-mp)__
+
 __A highly customisable, open source server software for Minecraft: Pocket Edition written in PHP__
 
 [![Build Status](https://travis-ci.org/pmmp/PocketMine-MP.svg?branch=master)](https://travis-ci.org/pmmp/PocketMine-MP)
